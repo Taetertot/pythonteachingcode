@@ -109,3 +109,6 @@ venv.bak/
 .DS_Store
 .DS_Store
 .DS_Store
+2 ksu scrape/ksu_scrape.py
+2 ksu scrape/ksu_scrape.py
+*.py
