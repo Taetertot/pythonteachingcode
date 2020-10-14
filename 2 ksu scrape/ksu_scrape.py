@@ -6,7 +6,6 @@ import requests
 import csv
 from datetime import datetime
 
-
 source = requests.get('https://news.kennesaw.edu/news-releases/?&categories=news%20releases&year=2019').text
 
 soup = BeautifulSoup(source, 'lxml')
